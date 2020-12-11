@@ -1,23 +1,15 @@
-# Dog Toy
-
-
-
 <!--panels:start-->
 <!--div:title-panel-->
 
-  (...) - Awesome title
+  # Dog Toy
 
 <!--div:left-panel-->
 
-  (...) - Awesome explanation
+Notes:
+
+* Look at this
 
 <!--div:right-panel-->
-
-
-  (...) - Awesome example
-
-<!--panels:end-->
-
 
 
 
@@ -108,3 +100,8 @@ void loop() {
   }
 }
 ```
+
+<!--panels:end-->
+
+
+
