@@ -1,0 +1,10 @@
+### Section X
+
+```plantuml
+@startuml
+[[!include ../assets/pumls/my-chart.puml]]
+
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: another authentication Response
+@enduml
+```
