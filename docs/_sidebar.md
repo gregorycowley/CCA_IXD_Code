@@ -1,3 +1,3 @@
 - 2020 Objects And Spaces Code 
 
-  - [Quick start](DogToy2020.md)
+  - [Min Ji & Jiyeon](DogToy2020.md)
